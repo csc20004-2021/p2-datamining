@@ -15,5 +15,5 @@
   <artifactId>alice</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
-  <name>demos</name>
+  <name>alice</name>
 </project>
