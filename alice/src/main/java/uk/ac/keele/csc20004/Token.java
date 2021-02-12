@@ -1,6 +1,6 @@
 /* ***********************
- * CSC-20004 PRACTICAL 2 *
- * Java Collections      *
+ * CSC-20004 PRACTICAL 3 *
+ * Java Collections (sol)*
  * ***********************/
 package uk.ac.keele.csc20004;
 

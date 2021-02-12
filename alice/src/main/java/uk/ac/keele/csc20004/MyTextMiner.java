@@ -1,6 +1,6 @@
 /* ***********************
- * CSC-20004 PRACTICAL 2 *
- * Java Collections      *
+ * CSC-20004 PRACTICAL 3 *
+ * Java Collections (sol)*
  * ***********************/
 package uk.ac.keele.csc20004;
 
@@ -11,13 +11,11 @@ import java.io.FileNotFoundException;
  * implementation for all methods defined in the interface TextMiner
  * (implemented here via the AbstractTextMiner class). You are, of course, free
  * to add any additional method you need, with two caveats:
- * <p>
  * <ul>
  * <li>you *must* implement all methods of the TextMiner interface
  * <li>any additional method won't be visible if you access your object as
  * TextMiner instances (as opposed to MyTextMiner)
  * </ul>
- * <p>
  * 
  * @author Yourself
  * @see TextMiner
@@ -35,6 +33,10 @@ public class MyTextMiner extends AbstractTextMiner {
      */
     public MyTextMiner(String corpusFileName) throws FileNotFoundException {
         initCorpus(corpusFileName);
+    }
+
+    private int myMethod() {
+        return 0;
     }
 
     @Override
