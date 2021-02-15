@@ -8,7 +8,7 @@ package uk.ac.keele.csc20004;
  * Main class to provide an example of use for the concrete implementation of a
  * TextMiner. Here, I show the different results when using an implementation 
  * based on Maps as compared to one based on a List. 
- * Add a line; and some other text
+ * Add a line; and some other text; and yet another
  *
  * @see MapTextMiner
  * @see ListTextMiner
