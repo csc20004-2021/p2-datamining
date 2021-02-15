@@ -11,6 +11,7 @@ import java.util.Comparator;
 /**
  * A concrete implementation for a TextMiner, whose innner data structure is
  * an ArrayList. 
+ * Add another line; and another 
  * 
  */
 public class ListTextMiner extends AbstractTextMiner {
